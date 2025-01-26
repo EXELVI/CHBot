@@ -4,3 +4,5 @@ assets
 .env
 temp
 dist
+tsconfig.tsbuildinfo
+langCodes.json

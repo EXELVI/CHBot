@@ -65,7 +65,8 @@ export const name = `ready`;
 export const execute = async function (client: Discord.Client) {
     console.log(chalk.green("Bot is ready!"));
     fadeColors(asciiArt);
-    console.log(chalk.red(`
+    console.log(chalk.red(`By EXELVI   
+             
 User: ${client.user?.tag}
       
         `))
